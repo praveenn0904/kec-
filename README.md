@@ -11,6 +11,7 @@ A full-stack portal for KONGU Engineering College with three kinds of login:
 - **Storage:** a JSON file (`server/data/db.json`) created on first run with sample data. No database needs installing.
 
 ## Run it
+https://kec-contact.onrender.com/
 
 Requires Node.js 18 or newer.
 
